@@ -1,1 +1,1 @@
-# EBAC_Teste_de_API_E2E_Modulo_13
+Repositório com meu exercício do Módulo 13 do curso Profissão: Engenheiro de Qualidade de Software da EBAC
